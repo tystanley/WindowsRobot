@@ -1,0 +1,7 @@
+c:\users\ptyle\source\repos\Robot\Robot\bin\Debug\Robot.exe.config
+c:\users\ptyle\source\repos\Robot\Robot\bin\Debug\Robot.exe
+c:\users\ptyle\source\repos\Robot\Robot\bin\Debug\Robot.pdb
+c:\users\ptyle\source\repos\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+c:\users\ptyle\source\repos\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+c:\users\ptyle\source\repos\Robot\Robot\obj\Debug\Robot.exe
+c:\users\ptyle\source\repos\Robot\Robot\obj\Debug\Robot.pdb
